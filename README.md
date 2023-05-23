@@ -1,4 +1,4 @@
-# Sales-Dashboard
+# Revenue Analysis Dashboard for E-Commerce Company
 Lifecycle Program Analysis for Client's Executive Team
 
 
